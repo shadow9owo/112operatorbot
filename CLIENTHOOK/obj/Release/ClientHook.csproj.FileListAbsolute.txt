@@ -1,0 +1,7 @@
+C:\Users\shadowdev\Documents\GitHub\112operatorbot\CLIENTHOOK\obj\Release\ClientHook.csproj.AssemblyReference.cache
+C:\Users\shadowdev\Documents\GitHub\112operatorbot\CLIENTHOOK\obj\Release\ClientHook.csproj.CoreCompileInputs.cache
+C:\Users\shadowdev\Documents\GitHub\112operatorbot\CLIENTHOOK\Output\MelonLoader.dll
+C:\Users\shadowdev\Documents\GitHub\112operatorbot\CLIENTHOOK\Output\MelonLoader.xml
+C:\Users\shadowdev\Documents\GitHub\112operatorbot\CLIENTHOOK\obj\Release\ClientHook.csproj.Up2Date
+C:\Users\shadowdev\Documents\GitHub\112operatorbot\CLIENTHOOK\Output\ClientHook.dll
+C:\Users\shadowdev\Documents\GitHub\112operatorbot\CLIENTHOOK\obj\Release\ClientHook.dll
